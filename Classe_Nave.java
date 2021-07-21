@@ -1,4 +1,3 @@
--Classe Nave
 public class Nave {
 	private int x, y;
 	private int dx, dy;
