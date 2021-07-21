@@ -1,4 +1,3 @@
-- Classe Fase
 public class Fase extends JPanel implements ActionListener {
 	private Image fundo;
 	private Nave nave;
