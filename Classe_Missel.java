@@ -1,4 +1,3 @@
-- Classe Missel
 public class Missel {
 	private Image imagem;
 	private int x, y;
