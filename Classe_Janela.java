@@ -1,4 +1,3 @@
-Classe Janela(main)
 public class janela extends JFrame{
 	private static Fase f = new Fase();
 	public janela(){
