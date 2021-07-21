@@ -1,4 +1,3 @@
--Classe Form_Login(main)
 public class form_Login extends javax.swing.JFrame {
 	private static Fase f = new Fase();
     Connection con = null;
